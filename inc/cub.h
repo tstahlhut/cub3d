@@ -6,14 +6,14 @@
 /*   By: tstahlhu <tstahlhu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/24 10:04:52 by tstahlhu          #+#    #+#             */
-/*   Updated: 2024/04/24 17:03:23 by tstahlhu         ###   ########.fr       */
+/*   Updated: 2024/04/24 18:26:05 by tstahlhu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef CUB_H
 # define CUB_H
 
-# include "../../../minilibx-linux/mlx.h"
+# include "../../minilibx-linux/mlx.h"
 # include "../libs/libft/libft.h"
 # include "key_codes.h"
 # include "color_codes.h"
